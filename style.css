@@ -1,15 +1,24 @@
 .heading {
-    background-color: rgb(105, 217, 217);
     font-size: 23px;
     width: 100;
     margin: 0px;
     box-shadow: 5px 5px 5px gray;
+    margin: 25px;
+    margin-bottom: 30px;
+    background-color: rgb(78, 191, 232);
+    border-radius: 10px;
+    padding: 15px;
+    padding-left: 9px;
 }
 
 .note {
     font-size: 15px;
     background-color: aliceblue;
     color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
 .copy_right_footer {
